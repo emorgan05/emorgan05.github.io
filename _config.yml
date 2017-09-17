@@ -1,0 +1,21 @@
+# Site settings
+title: Emily Coding
+header-img: img/home-bg.png
+email: emorgan05@gmail.com
+copyright_name: emorgan05
+description: > # this means to ignore newlines until "baseurl:"
+  A journey of learning
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: emorgan0530
+github_username:  emorgan05
+learn_profile: emorgan05
+email_username: emorgan05@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
