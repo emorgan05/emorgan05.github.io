@@ -20,19 +20,19 @@ For those who want to get a little more specific, I will include categories, so 
 
 I’ve diagrammed the project. In the Rails API, I will have two models -- workouts and categories. I’ve also laid out the fields for each model table. 
 
-![](https://photos.app.goo.gl/apmgy9BtwiMV37tW2)
+![Models](https://photos.app.goo.gl/apmgy9BtwiMV37tW2)
 
 One thing that I noticed with my last project was I had not thought completely about the endpoints that I would need from the API before I started. So I am doing that here, because it will simplify the routes that I am creating, and the ActiveModel Serialization. I need to know now exactly what information I want and what I will be getting back.
 
-![](https://photos.app.goo.gl/uGtQukwlb7wVDFDz1)
+![Routes](https://photos.app.goo.gl/uGtQukwlb7wVDFDz1)
 
 In the React side, I’ve diagrammed the different views that I will present with the project, how they move, and how they interact back with the API. 
 
-![](https://photos.app.goo.gl/1NlmJBYDZFLJFobs1)
+![React](https://photos.app.goo.gl/1NlmJBYDZFLJFobs1)
 
 I’ve also planned the routes and what they will be called. (Something else I missed in my last project). 
 
-![](https://photos.app.goo.gl/3369HW3zEhcRZi9G3)
+![ReactRouter](https://photos.app.goo.gl/3369HW3zEhcRZi9G3)
 
 I love the planning stage. Everything is so full of hope and possibility. 
 
