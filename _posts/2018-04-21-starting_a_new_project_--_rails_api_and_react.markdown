@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Starting a New Project -- Rails API and React"
-date:       2018-04-21 20:51:24 +0000
+date:       2018-04-21 16:51:25 -0400
 permalink:  starting_a_new_project_--_rails_api_and_react
 ---
 
