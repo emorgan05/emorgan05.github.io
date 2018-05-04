@@ -36,3 +36,5 @@ I’ve also planned the routes and what they will be called. (Something else I m
 
 I love the planning stage. Everything is so full of hope and possibility. 
 
+(To see this with the diagrams, click [here](https://medium.com/emily-coding/starting-a-new-project-rails-api-and-react-d520eacc3271))
+
